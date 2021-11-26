@@ -30,7 +30,7 @@
     padding: 3% 0;
   }
 
-  input[type='text'] {
+  input[type='email'] {
     width: calc(80% - 40px);
     align-self: center;
   }
