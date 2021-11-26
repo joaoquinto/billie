@@ -196,6 +196,7 @@ label {
 }
 #text-form a {
   color: var(--color-letras);
+  margin-left: 45px;
 }
 
 #container-content #info-other {
