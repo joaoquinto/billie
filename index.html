@@ -40,9 +40,8 @@
   <link rel="shortcut icon" href="./assets/favicon-assets/favicon.ico" type="image/x-icon">
   <link rel="icon" href="./assets/favicon-assets/favicon.ico" type="image/x-icon">
   <meta name="theme-color" content="#ffffff">
-  <link rel="stylesheet" href="./css/reset.css">
-  <link rel="stylesheet" href="./css/style.css">
-  <link rel="stylesheet" href="./css/desktop.css">
+  <link rel="stylesheet" href="./css/style.min.css">
+
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-BFFHHK8BYQ"></script>
   <script>
@@ -77,11 +76,11 @@
       </div>
       <form action="" id="container-form">
         <label class="access" for="email">Email</label>
-        <input type="email" name="email" placeholder="example@domain.com.br" autocomplete="email">
+        <input type="email" id="email" name="email" placeholder="example@domain.com.br" autocomplete="email">
         <label class="access" for="password">Password</label>
-        <input type="password" name="password" placeholder="**********" maxlength="8" autocomplete="current-password">
+        <input type="password" id="password" name="password" placeholder="**********" maxlength="8" autocomplete="current-password">
         <div id="text-form">
-          <input type="checkbox" name="remember-me" value="">
+          <input type="checkbox" id="checkbox" name="remember-me" value="">
           <label for="checkbox">Remember Me</label>
           <a href="#">Forget password?</a>
         </div>
