@@ -8,12 +8,12 @@
 
 ## Mobile
 
-<img src="./assets/screenshots/Iphone-1v.png" width="300px" heigth="300px">
+<img src="./assets/screenshots/Iphone-3v.png" width="300px" heigth="300px">
 
 ## Desktop
 
-<img src="./assets/screenshots/Desktop-1v.png"  width="1920px" heigth="1080px">
+<img src="./assets/screenshots/Desktop-3v.png"  width="1920px" heigth="1080px">
 
 ## Nest Hub
 
-<img src="./assets/screenshots/Nesthub-1v.png" width="1024px" heigth="600px">
+<img src="./assets/screenshots/Nesthub-3v.png" width="1024px" heigth="600px">
